@@ -1,0 +1,30 @@
+.footer{
+    position: sticky;
+    top: 100%;
+    overflow: hidden;
+    background-color:rgb(28, 27, 27);
+    padding: 20px 10px;
+    margin-top: 30px;
+}
+h1{
+    color: green;
+    font-size: 30px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding: 0px 10px;
+    font-size: 18px;
+}
+P{
+    color: aliceblue;
+}
+i{
+    color:white;
+}
+a:hover{
+    color:green;
+}
+i:hover{
+    color:green;
+}
