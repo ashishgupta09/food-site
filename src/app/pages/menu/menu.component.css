@@ -6,6 +6,11 @@
     height: 250px;
     object-fit: cover;
     border-radius: 5px;
+    translate: all 0.5s ease;
+}
+.foodbox:hover{
+    transform: scale(1.02);
+    cursor: pointer;
 }
 .foodbox h1{
     font-size: 18px;
